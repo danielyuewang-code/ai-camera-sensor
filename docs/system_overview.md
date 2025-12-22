@@ -6,7 +6,7 @@ build cool camera sensor B)
 ## Pipeline
 
 1. frame from video
-2. processing
+2. preprocessing
 3. ai image reading
 4. frame output
 
